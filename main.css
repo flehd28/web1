@@ -1,14 +1,28 @@
+main {
+  position:absolute;
+  top:40%;
+  left:30%;
+  widows: 0;
+  height:200px;
+  background : white;
+}
+div {
+    display: inline;
+    font-size: 60px;
+}
+
 kbd {
     padding: 0;
     border-radius: 3px;
     border-top: 2px solid rgb(240,240, 240);
     border-bottom: 2px solid rgb(205,205, 205);
-    border-top: 2px solid rgb(240,240, 240);
-    border-top: solid rgb(225,225, 225);
+    border-left: 2px solid rgb(240,240, 240);
+    border-right: solid rgb(225,225, 225);
+    font-size: 60px;
     
 }
 i {
     color: crimson;
     background-color:yellow;
-    font-size: x-large;
+    font-size: 60px;
 }
