@@ -1,0 +1,14 @@
+kbd {
+    padding: 0;
+    border-radius: 3px;
+    border-top: 2px solid rgb(240,240, 240);
+    border-bottom: 2px solid rgb(205,205, 205);
+    border-top: 2px solid rgb(240,240, 240);
+    border-top: solid rgb(225,225, 225);
+    
+}
+i {
+    color: crimson;
+    background-color:yellow;
+    font-size: x-large;
+}
